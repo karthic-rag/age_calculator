@@ -7,7 +7,7 @@ This project was developed as a challenge from **Frontend Mentor** to improve fr
 
 ## 🚀 Live Demo
 
-👉 [Add your deployed link here]
+👉 https://age-calculator-aocr.onrender.com
 
 ---
 
@@ -42,7 +42,7 @@ This project was developed as a challenge from **Frontend Mentor** to improve fr
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/age-calculator.git
+   git clone https://github.com/karthic-rag/age_calculator.git
 
 2. Navigate to project folder:
    cd age-calculator
